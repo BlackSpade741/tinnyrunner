@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TinnyRunner</string>
+    <string name="time_elapsed">Time Elapsed</string>
+    <string name="start">Start</string>
+    <string name="let_s_get_started">Let\'s get started!</string>
+    <string name="options">Options</string>
+    <string name="stop">Stop</string>
+    <string name="pause">Pause</string>
+    <string name="unpause">Unpause</string>
+    <string name="reset">Reset</string>
+</resources>
